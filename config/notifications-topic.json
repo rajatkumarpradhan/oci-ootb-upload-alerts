@@ -1,0 +1,10 @@
+{
+  "topic": {
+    "name": "upload-alerts",
+    "description": "Alerts for new objects in the upload-inbox bucket."
+  },
+  "subscription": {
+    "protocol": "EMAIL",
+    "endpoint": "<your-email-address>"
+  }
+}
