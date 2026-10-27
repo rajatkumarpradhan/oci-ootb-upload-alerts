@@ -1,0 +1,21 @@
+{
+  "eventType": "com.oraclecloud.objectstorage.createobject",
+  "cloudEventsVersion": "0.1",
+  "eventTypeVersion": "2.0",
+  "source": "ObjectStorage",
+  "eventTime": "2026-10-27T10:05:00.000Z",
+  "contentType": "application/json",
+  "data": {
+    "compartmentId": "ocid1.compartment.oc1..example",
+    "compartmentName": "demo",
+    "resourceName": "invoice-0427.pdf",
+    "resourceId": "/n/example/b/upload-inbox/o/invoice-0427.pdf",
+    "additionalDetails": {
+      "bucketName": "upload-inbox",
+      "bucketId": "ocid1.bucket.oc1..example",
+      "namespace": "example"
+    }
+  },
+  "eventID": "d4e5f6",
+  "extensions": {"compartmentId": "ocid1.compartment.oc1..example"}
+}
