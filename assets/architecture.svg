@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#5a6675"/>
+    </marker>
+  </defs>
+  <rect x="10" y="70" width="160" height="90" rx="10" fill="#eef3fa" stroke="#7f9cc4"/>
+  <text x="90" y="95" text-anchor="middle" font-size="12" fill="#5a6675" font-weight="bold">YOU</text>
+  <text x="90" y="118" text-anchor="middle" font-size="12" fill="#1a2332">upload a file</text>
+  <text x="90" y="136" text-anchor="middle" font-size="11" fill="#5a6675">(Console or CLI)</text>
+  <rect x="235" y="60" width="190" height="110" rx="10" fill="#eef3fa" stroke="#7f9cc4"/>
+  <text x="330" y="85" text-anchor="middle" font-size="12" fill="#5a6675" font-weight="bold">OBJECT STORAGE</text>
+  <text x="330" y="108" text-anchor="middle" font-size="12" fill="#1a2332">bucket: upload-inbox</text>
+  <text x="330" y="126" text-anchor="middle" font-size="11" fill="#5a6675">20 GB Always Free</text>
+  <rect x="490" y="60" width="170" height="110" rx="10" fill="#eef3fa" stroke="#7f9cc4"/>
+  <text x="575" y="85" text-anchor="middle" font-size="12" fill="#5a6675" font-weight="bold">EVENTS</text>
+  <text x="575" y="108" text-anchor="middle" font-size="12" fill="#1a2332">rule: createobject</text>
+  <text x="575" y="126" text-anchor="middle" font-size="11" fill="#5a6675">service is free</text>
+  <rect x="725" y="60" width="165" height="110" rx="10" fill="#eef3fa" stroke="#7f9cc4"/>
+  <text x="807" y="85" text-anchor="middle" font-size="12" fill="#5a6675" font-weight="bold">NOTIFICATIONS</text>
+  <text x="807" y="108" text-anchor="middle" font-size="12" fill="#1a2332">topic: upload-alerts</text>
+  <text x="807" y="126" text-anchor="middle" font-size="11" fill="#5a6675">1,000 emails/mo free</text>
+  <line x1="170" y1="115" x2="230" y2="115" stroke="#5a6675" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="425" y1="115" x2="485" y2="115" stroke="#5a6675" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="455" y="100" text-anchor="middle" font-size="9.5" fill="#5a6675">event</text>
+  <line x1="660" y1="115" x2="720" y2="115" stroke="#5a6675" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="690" y="100" text-anchor="middle" font-size="9.5" fill="#5a6675">publish</text>
+  <text x="807" y="200" text-anchor="middle" font-size="12" fill="#1a2332">email lands in your inbox (after you confirm the subscription once)</text>
+  <line x1="807" y1="170" x2="807" y2="185" stroke="#5a6675" stroke-width="1.5" marker-end="url(#arr)"/>
+</svg>
