@@ -1,0 +1,7 @@
+{
+  "Type": "Confirmation",
+  "MessageId": "1a2b3c",
+  "SubscribeURL": "https://cell1.notification.eu-frankfurt-1.oci.oraclecloud.com/20181201/subscriptions/ocid1.onssubscription.oc1..example/confirmation?token=abc123&protocol=CUSTOM_HTTPS",
+  "Message": "You have chosen to subscribe to the topic upload-alerts. To confirm this subscription, click or visit the link below.",
+  "Timestamp": "2026-10-27T10:00:00.000Z"
+}
